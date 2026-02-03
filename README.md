@@ -1,2 +1,3 @@
-# Tongji_CS_homework
-同济大学计算机科学与技术的部分作业。计算机系统结构（流水线CPU，静态的和动态的，参考了两位学长的代码），希望能有点帮助
+
+
+本项目参考了曾崇然学长 [](https://github.com/MurkyWorm/TongjiCSHomework) 的实现思路。
