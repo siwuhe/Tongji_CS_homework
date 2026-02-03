@@ -1,7 +1,7 @@
 
 本作业大量使用vibe coding
 
-本项目参考了曾崇然学长 [](https://github.com/MurkyWorm/TongjiCSHomework) 的实现思路。
+本项目参考了曾崇然学长 [曾崇然学长的仓库](https://github.com/MurkyWorm/TongjiCSHomework) 的实现思路。
 
 选择的指令稍有不同，一共十五条（老师要求的八条指令不够完成功能，如果需要更多指令可以考虑拓展指令编码的位数）
 
